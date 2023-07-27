@@ -108,7 +108,7 @@ export default defineConfig({
             options: {
                 appId: 'XDL85IJNCD',
                 apiKey: 'd24df6b33bfb43718acaa6fcf8276f71',
-                indexName: 'systemDocument',
+                indexName: 'VitepressDocument',
                 // 这是搜索输入框的占位符文本，用于在输入框为空时显示提示性文字。该属性是可选的，可以不提供，如果不提供，则输入框将没有占位符文本。
                 placeholder: '搜索文档',
                 // 可以用不同的语言本地化搜索输入框的标签、按钮文本等。该属性是可选的，可以不提供，如果不提供，则使用默认的文本。

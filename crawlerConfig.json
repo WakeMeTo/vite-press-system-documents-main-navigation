@@ -1,5 +1,5 @@
 {
-  "index_name": "systemDocument",
+  "index_name": "VitepressDocument",
   "start_urls": ["https://wakemeto.github.io/vite-press-system-documents-main-navigation/"],
   "rateLimit": 8,
   "maxDepth": 10,
